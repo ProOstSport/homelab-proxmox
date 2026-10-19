@@ -2,7 +2,7 @@
 
 > Der Homeserver läuft als Proxmox-VE-Host auf einem Intel NUC. Darin betreibe ich eine Ubuntu-Server-VM für Docker und meine Dienste.
 
-**Status:** abgeschlossen (spätestens 13.10.2026), in Betrieb
+**Status:** abgeschlossen (seit 13.10.2026), in Betrieb
 
 ## Ausgangslage
 
